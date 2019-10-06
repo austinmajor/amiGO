@@ -4,7 +4,7 @@
 
 # amiGO (a·mi·go)
 
-A generalized unit tested Golang RESTful API micro-service template - built for re-purposing
+A generalized unit tested Golang RESTful API micro-service template. The application makes RESTful calls to manage a list with items. Use this template to help accelerate your next golang project.  
 
 ## General Usage
 
